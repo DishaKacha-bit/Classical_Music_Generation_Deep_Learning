@@ -1,0 +1,8 @@
+In the realm of musical creation, the fusion of art and technology has opened doors to innovative approaches for generating compositions. 
+This project delves into the fascinating domain of using Neural Network models to craft classical music—a harmonious blend of tradition and innovation. 
+Motivated by my passion for music and driven by the desire to unravel the intricacies of classical compositions, I embarked on a journey to explore the predictability of musical patterns inherent in this genre. 
+My endeavor was fueled by the aspiration to push the boundaries of music generation and explore the potential of Neural Network models in creating authentic classical compositions. 
+With the aid of advanced techniques and algorithms, I sought to craft pieces that resonate with the rich legacy of classical music, seamlessly blending tradition with contemporary methodologies. 
+For this endeavor, I leveraged a comprehensive dataset comprising classical music compositions in the MIDI format. MIDI files, renowned for their versatility and expressive capabilities, served as the cornerstone of my project, providing a diverse array of musical motifs and arrangements to fuel my exploration. 
+Central to my approach was the utilization of Long Short-Term Memory (LSTM) models—a cutting-edge neural network architecture renowned for its prowess in sequence modeling and generation. 
+By harnessing the power of LSTM, I aimed to unravel the underlying structures and patterns inherent in classical music, paving the way for the creation of compositions that captivate the imagination and evoke emotions.
